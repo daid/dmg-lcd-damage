@@ -1,9 +1,9 @@
 # June 15, 2021
 
 [3:12 AM] Cavencruiser: Is my screen gonna be stuck like this forever? I was playing game and watch gallery 2, and somehow the game crashed, leaving the scanline beam in place for, maybe 10 minutes. Now I have this seemingly permanent horizontal dark line burned into my screen. Someone also mentioned this on reddit, is this really permanent? (Its near the top) https://www.reddit.com/r/Gameboy/comments/fx7vmx/why_does_the_lcd_losing_power_at_the_wrong_time/<br/>
-[3:12 AM] Cavencruiser: [photo](photos/20210614_211157.jpg)<br/>
-[3:13 AM] Cavencruiser: [photo](photos/20210614_211306.jpg)<br/>
-[3:13 AM] Cavencruiser: [photo](photos/20210614_211332.jpg)<br/>
+[3:12 AM] Cavencruiser: [photo](20210614_211157.jpg)<br/>
+[3:13 AM] Cavencruiser: [photo](20210614_211306.jpg)<br/>
+[3:13 AM] Cavencruiser: [photo](20210614_211332.jpg)<br/>
 [3:16 AM] kevtris: it could be.  LCDs don't like DC on them.  if it doesn't go away after a few hours of use it most likely is permanent<br/>
 [3:17 AM] Cavencruiser: Why would the lcd do that, if the game crashed?<br/>
 [3:17 AM] kevtris: why did it get left on for 10 minutes after it crashed<br/>
@@ -55,15 +55,15 @@ Results of excessive DC component on a segmented LCD Extended operation of an ex
 [11:59 AM] Cavencruiser: Yes, so do not do this with homebrew programs, be very careful on when you turn of the lcd, as it's very fragile.<br/>
 [12:21 PM] Cavencruiser: On the bright side, this is just the gameboy I use for play. I have two other ones in better condition that I keep in storage. Since this model I'm using is in such bad shape to begin with, I can just consider this incident more battle damage, lol.<br/>
 [3:25 PM] Cavencruiser: I dont know if I'm making this up, but I left my gameboy plugged in all night playing a looped demoscene demo (punk.gb). The screen looks exactly the same as it did yesterday, but upon further inspection, it may seem like the line isnt as visable as it was before (maybe the different light sources effecting it differently and the different contrast settings play into this)<br/>
-[3:25 AM] Cavencruiser: [photo](photos/20210615_092837.jpg)<br/>
+[3:25 AM] Cavencruiser: [photo](20210615_092837.jpg)<br/>
 [3:29 PM] Cavencruiser: Doesnt the line seem more faint now?<br/>
 [3:30 PM] Cavencruiser: Under the same light I took a pic of it last night too<br/>
-[3:30 AM] Cavencruiser: [photo](photos/20210615_093207.jpg)<br/>
-[3:30 AM] Cavencruiser: [photo](photos/20210615_093251.jpg)<br/>
+[3:30 AM] Cavencruiser: [photo](20210615_093207.jpg)<br/>
+[3:30 AM] Cavencruiser: [photo](20210615_093251.jpg)<br/>
 [3:33 PM] Cavencruiser: Sorry about all the pics<br/>
 [3:33 PM] Cavencruiser: I just wanted to give a better idea on how it looks now<br/>
 [3:35 PM] Cavencruiser: This is how it looks on the other side of the light<br/>
-[3:35 AM] Cavencruiser: [photo](photos/20210615_093459.jpg)<br/>
+[3:35 AM] Cavencruiser: [photo](20210615_093459.jpg)<br/>
 [3:36 PM] Cavencruiser: See how only certain angles make it more visible?<br/>
 [3:36 PM] Cavencruiser: Why is this<br/>
 [3:41 PM] pyroesp: because an LCD, like the name says, is a crystal suspended in liquid<br/>
@@ -78,7 +78,7 @@ Results of excessive DC component on a segmented LCD Extended operation of an ex
 [4:19 PM] PinoBatch: NES APU is just a PSG and a DMA-driven sample player<br/>
 [4:20 PM] PinoBatch: It has a few rudimentary features to handle duration, fade, and sweep, but that's it for processing, and most games do those in software anyway for finer control.<br/>
 [3:36 AM] Cavencruiser: This is what it looks like now under the same light tonight<br/>
-[3:36 AM] Cavencruiser: [photo](photos/20210615_213615.jpg)<br/>
+[3:36 AM] Cavencruiser: [photo](20210615_213615.jpg)<br/>
 [3:37 AM] Cavencruiser: Doesnt it seem to be fading away?<br/>
 [3:47 AM] Cavencruiser: I'm sorry for keep posting pictures, I just wanted to keep you guys updated on this issue, if anyone is interested if this is permanent or not.<br/>
 [7:27 AM] Daid: I am very interrested. I plan on updating the pandocs to reflect this. Mind if I archive your posts somewhere for reference?<br/>
